@@ -30,7 +30,7 @@ vim.
 
 # Configuration
 
-- `let g:feline_soul_perl_quotes=0`: do not set colors for `perStringStartEnd`
+- `let g:feline_soul_perl_quotes=0`: do not set colors for `perlStringStartEnd`
 
 # Author
 
